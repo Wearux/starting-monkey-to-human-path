@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE restaurant SYSTEM "restaurant.dtd">
+<restaurant>
+    <date day="12" month="11" year="2017">
+        <order>
+            <officiant firstname="Max" secondname="ivanov"></officiant>
+            <item cost="100"></item>
+            <item cost="50"></item>
+            <item cost="150"></item>
+            <totalcost>300</totalcost>
+        <order>
+        </order>
+            <officiant firstname="Max" secondname="ivanov"></officiant>
+            <item cost="100"></item>
+            <item cost="150"></item>
+            <totalcost>250</totalcost>
+        <order>
+            <officiant firstname="Andrey" secondname="petrov"></officiant>
+            <item cost="100"></item>
+            <item cost="50"></item>
+            <totalcost>150</totalcost>
+        </order>
+    </date>
+    <date day="13" month="11" year="2017">
+        <order>
+            <officiant firstname="Max" secondname="ivanov"></officiant>
+            <item cost="100"></item>
+            <item cost="50"></item>
+            <item cost="150"></item>
+            <totalcost>300</totalcost>
+        </order>
+        <order>
+            <officiant firstname="Jacob" secondname="sidorov"></officiant>
+            <item cost="100"></item>
+            <totalcost>100</totalcost>
+        </order>
+</restaurant>
+</date>
